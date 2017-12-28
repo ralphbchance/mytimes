@@ -1,0 +1,26 @@
+
+
+
+
+
+a{
+  font-family: Verdana;
+  font-size:14px;
+  font-weight: bold;
+  color: black;
+
+}
+
+
+
+
+.logo span{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: 700;
+  color: MediumAquamarine;
+  width: 73.912px;
+}
